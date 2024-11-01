@@ -1,0 +1,1 @@
+#!/bin/shmount -o rw,remount /SCRIPT_DIRECTORY="$(dirname $(realpath "$0"))"source $SCRIPT_DIRECTORY/entware-install.sh
