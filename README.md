@@ -29,3 +29,4 @@ To kick things off, there are two useful scripts:
     7. once connected, type `rm-ssh-over-wlan on`
 3. You should now be able to connect to rmPP using Wifi and SSH, nota bene: use the Wifi IP, not the USB IP
 4. Open SSH to rmPP and enter `wget -q -O- http://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/bootstrap.sh 2>/dev/null | /bin/sh`
+5. Type `opkg list` to check whether opkg works and to see a list of installable packages
