@@ -4,6 +4,9 @@ Aftermarket tooling for the reMarkable Paper Pro.
 This repo will try to build a developer ecosystem around reMarkable Paper Pro (rmPP) - please feel free to contribute, pull, fork, and use.
 
 ## Links
+### rmBifrost: development framework that enables homebrew applications
+https://github.com/shg8/rmBifrost
+
 ### XOVI extensions for the Remarkable Paper Pro
 https://github.com/asivery/remarkable-xovi-extensions
 
