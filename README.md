@@ -3,15 +3,17 @@ Aftermarket tooling for the reMarkable Paper Pro.
 
 This repo will try to build a developer ecosystem around reMarkable Paper Pro (rmPP) - please feel free to contribute, pull, fork, and use.
 
-## Overview
-To kick things off, there are two useful scripts:
+## Links
+### XOVI extensions for the Remarkable Paper Pro
+https://github.com/asivery/remarkable-xovi-extensions
+
 ### entware-install.sh
 ...which installs the command line package manager [opkg]([https://duckduckgo.com](https://github.com/Entware/Entware/wiki))
 
 ### set-max-screen-brightness.sh
 ...which maximizes the screen brightness to the highest setting the hardware supports
 
-## Installation
+## Installation of the scripts (entware & screen brightness):
 
 1. Switch rmPP to "developer mode"
    1. from the home screen, tap men->Settings->General->Software, tap your software version
