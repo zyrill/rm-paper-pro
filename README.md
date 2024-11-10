@@ -13,11 +13,11 @@ https://github.com/asivery/remarkable-xovi-extensions
 ### .rm file converter
 https://github.com/ricklupton/rmc
 
-### entware-install.sh
-...which installs the command line package manager [opkg]([https://duckduckgo.com](https://github.com/Entware/Entware/wiki))
+### opkg package manager
+[entware-install.sh](https://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/entware-install.sh) - which installs the command line package manager [opkg](https://github.com/Entware/Entware/wiki)
 
-### set-max-screen-brightness.sh
-...which maximizes the screen brightness to the highest setting the hardware supports
+### Maximize screen brightness
+[entware-install.sh](https://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/set-max-screen-brightness.sh) - which maximizes the screen brightness to the highest setting the hardware supports
 
 ## Installation of the scripts (entware & screen brightness):
 
