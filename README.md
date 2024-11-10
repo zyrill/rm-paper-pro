@@ -10,6 +10,9 @@ https://github.com/shg8/rmBifrost
 ### XOVI extensions for the Remarkable Paper Pro
 https://github.com/asivery/remarkable-xovi-extensions
 
+### .rm file converter
+https://github.com/ricklupton/rmc
+
 ### entware-install.sh
 ...which installs the command line package manager [opkg]([https://duckduckgo.com](https://github.com/Entware/Entware/wiki))
 
