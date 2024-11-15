@@ -16,6 +16,12 @@ https://github.com/ricklupton/rmc
 ### translate PDF files into RMDOC notebooks with optional automatic upload
 https://github.com/asivery/pdf2rmdoc
 
+### uBoot bootloader
+https://github.com/reMarkable/uboot-imx-rm
+
+### Linux kernel
+https://github.com/reMarkable/linux-imx-rm
+
 ### opkg package manager
 [entware-install.sh](https://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/entware-install.sh) - which installs the command line package manager [opkg](https://github.com/Entware/Entware/wiki)
 
