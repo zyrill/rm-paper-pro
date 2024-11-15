@@ -13,6 +13,9 @@ https://github.com/asivery/remarkable-xovi-extensions
 ### .rm file converter
 https://github.com/ricklupton/rmc
 
+### translate PDF files into RMDOC notebooks with optional automatic upload
+https://github.com/asivery/pdf2rmdoc
+
 ### opkg package manager
 [entware-install.sh](https://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/entware-install.sh) - which installs the command line package manager [opkg](https://github.com/Entware/Entware/wiki)
 
