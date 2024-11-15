@@ -28,6 +28,9 @@ https://github.com/reMarkable/linux-imx-rm
 ### Maximize screen brightness
 [set-max-screen-brightness.sh](https://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/set-max-screen-brightness.sh) - which maximizes the screen brightness to the highest setting the hardware supports
 
+### unsorted developer docu
+https://github.com/Eeems-Org/remarkable.guide/issues/74
+
 ## Installation of the scripts (entware & screen brightness):
 
 1. Switch rmPP to "developer mode"
