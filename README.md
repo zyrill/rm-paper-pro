@@ -51,5 +51,7 @@ https://github.com/Eeems-Org/remarkable.guide/issues/74
     6. when connecting to the IP noted above, use username "root" and the password you noted above
     7. once connected, type `rm-ssh-over-wlan on`
 3. You should now be able to connect to rmPP using Wifi and SSH, nota bene: use the Wifi IP, not the USB IP
-4. Open SSH to rmPP and enter `wget -q -O- http://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/bootstrap.sh 2>/dev/null | /bin/sh`
-5. Type `opkg list` to check whether opkg works and to see a list of installable packages
+4. Type `mount -o remount,rw / && umount /opt` 
+5. Open SSH to rmPP and enter `wget -q -O- http://raw.githubusercontent.com/zyrill/rm-paper-pro/refs/heads/main/bootstrap.sh 2>/dev/null | /bin/sh`
+6. Type `opkg list` to check whether opkg works and to see a list of installable packages
+7. If installation fails because /opt exists, and there's nothing important in there, enter `rm -rf /opt/` and try again
