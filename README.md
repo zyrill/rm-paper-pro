@@ -4,8 +4,7 @@ Aftermarket tooling for the reMarkable Paper Pro.
 This repo will try to build a developer ecosystem around reMarkable Paper Pro (rmPP) - please feel free to contribute, pull, fork, and use.
 
 ## Links
-###
-literm terminal emulator
+### literm terminal emulator
 https://github.com/asivery/rmpp-literm
 
 ### rm_calendar_memo (memo, notes & calendar) app
